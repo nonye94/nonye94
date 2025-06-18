@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Chijioke 👋
 
-<!--
-**nonye94/nonye94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student passionate about building intelligent software and AI-enhanced tools. 
 
-Here are some ideas to get you started:
+🔧 Tools I use: Python | JavaScript | React | Ruby | PostgreSQL | Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects:
+•	AI-Powered Language Assistant – Built a prototype AI assistant for language learners using Python.
+•	Student Record System – Created a web app for managing and editing student data.
+•	Robot Monitor – Simulated a robot state-checking system using formal methods.
+•	Company Record System – Developed a backend service for tracking purchases and sales records.
+• Crime reporting Dapp – Ethereum-based system to submit and verify incident reports
+
+
+🌱 Currently learning: NLP model deployment, CI/CD with GitHub Actions
+
+📫 Reach me: nonye_c@hotmail.co.uk | linkedin.com/in/chijioke-chiagorom-a7b72362
