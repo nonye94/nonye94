@@ -1,6 +1,6 @@
 Hi, I'm Chijioke 
 
-I'm a Computer Science student passionate about building intelligent software and AI-enhanced tools. 
+I'm a graduate Computer Science student passionate about building intelligent software and AI-enhanced tools. 
 
 🔧 Tools I use: Python | JavaScript | React | Ruby | PostgreSQL | Git
 
@@ -15,4 +15,4 @@ Projects:
 
 Currently learning: NLP model deployment, CI/CD with GitHub Actions
 
-Reach me: nonye_c@hotmail.co.uk | linkedin.com/in/chijioke-chiagorom-a7b72362
+Reach me: nonye_c@hotmail.co.uk | linkedin.com/in/chijioke-chiagorom
